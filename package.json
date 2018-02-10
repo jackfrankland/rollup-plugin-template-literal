@@ -7,6 +7,10 @@
     "email": "jackfrankland@gmail.com",
     "url": "https://github.com/jackfrankland"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackfrankland/rollup-plugin-template-literal.git"
+  },
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
