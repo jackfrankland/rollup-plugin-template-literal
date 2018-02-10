@@ -1,7 +1,7 @@
 {
   "name": "rollup-plugin-template-literal",
   "version": "0.1.0",
-  "description": "Rollup plugin to import taggable template literals",
+  "description": "Taggable template literals",
   "author": {
     "name": "Jack Frankland",
     "email": "jackfrankland@gmail.com",
